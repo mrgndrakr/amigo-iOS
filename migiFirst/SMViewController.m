@@ -26,4 +26,7 @@
     // Dispose of any resources that can be recreated.
 }
 
+- (IBAction)btnPressed {
+    self.predictLabel.text = @"Button Pressed";
+}
 @end

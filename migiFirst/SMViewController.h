@@ -9,5 +9,7 @@
 #import <UIKit/UIKit.h>
 
 @interface SMViewController : UIViewController
+@property (strong, nonatomic) IBOutlet UILabel *predictLabel;
+- (IBAction)btnPressed;
 
 @end

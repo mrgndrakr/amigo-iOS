@@ -112,8 +112,6 @@
 		1F8ED4D519B2ED7E0099FE3B /* migiFirst */ = {
 			isa = PBXGroup;
 			children = (
-				1F8ED4DE19B2ED7E0099FE3B /* SMAppDelegate.h */,
-				1F8ED4DF19B2ED7E0099FE3B /* SMAppDelegate.m */,
 				1F8ED4E119B2ED7E0099FE3B /* Main.storyboard */,
 				1F8ED4E419B2ED7E0099FE3B /* SMViewController.h */,
 				1F8ED4E519B2ED7E0099FE3B /* SMViewController.m */,
@@ -126,6 +124,8 @@
 		1F8ED4D619B2ED7E0099FE3B /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				1F8ED4DE19B2ED7E0099FE3B /* SMAppDelegate.h */,
+				1F8ED4DF19B2ED7E0099FE3B /* SMAppDelegate.m */,
 				1F8ED4D719B2ED7E0099FE3B /* migiFirst-Info.plist */,
 				1F8ED4D819B2ED7E0099FE3B /* InfoPlist.strings */,
 				1F8ED4DB19B2ED7E0099FE3B /* main.m */,
@@ -457,6 +457,7 @@
 				1F8ED50019B2ED7E0099FE3B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1F8ED50119B2ED7E0099FE3B /* Build configuration list for PBXNativeTarget "migiFirstTests" */ = {
 			isa = XCConfigurationList;
@@ -465,6 +466,7 @@
 				1F8ED50319B2ED7E0099FE3B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
